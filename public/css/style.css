@@ -1,0 +1,17 @@
+#content{
+	width: 980px;
+	margin: 20px auto;
+}
+#content #left{
+	width: 280px;
+	padding: 10px;
+	margin-right: 10px;
+	border: 2px solid red;
+	float: left;
+}
+#content #right{
+	width: 642px;
+	padding: 10px;
+	border: 2px solid red;
+	float: left;
+}
